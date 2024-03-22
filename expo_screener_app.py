@@ -7,6 +7,12 @@ import matplotlib.pyplot as plt
 def calculate_moving_average(data, window=20):
     return data.ewm(span=window, adjust=False).mean()
 
+def fetch_data(symbols,period="30d",interval="1d",start=None,end=None):
+    try:
+        data = yf.download(symbols, period=period,interval=interval,group_by ='ticker',start=start,end=end)
+        return data
+    except Exception as e:
+        return pd.DataFrame()
 def check_trigger(data):
     # Ensure the data is sorted in ascending order
     data = data.sort_index(ascending=True)
@@ -90,11 +96,21 @@ def main():
         st.session_state.all_data = {}
         st.session_state.trigger_symbols = []
 
-    symbols_input = st.text_input("Enter stock symbols, separated by commas", "AAPL,GOOGL,MSFT")
+    # Initial stock list
+    # initial_stock_list="AAPL,GOOGL,MSFT"
+    initial_stock_list="SPY,QQQ,IWM,MSFT,AAPL,NVDA,AMZN,GOOGL,GOOG,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,BABA,INTC,VZ,CMCSA,UBER,PFE,ARM"
+    symbols_input = st.text_input("Enter stock symbols, separated by commas",initial_stock_list )
     symbols = symbols_input.split(',')
 
     if st.button("Screen"):
-        st.session_state.all_data = {symbol: yf.download(symbol, period="30d") for symbol in symbols}
+        for symbol in symbols:
+            data = fetch_data(symbol, period="30d")
+            if data.empty:
+                st.error(f"No data found for symbol: {symbol}. Please check the symbol and try again.")
+                continue
+            st.session_state.all_data[symbol] = data
+
+        #st.session_state.all_data = {symbol: fetch_data(symbol, period="30d") for symbol in symbols}
         st.session_state.trigger_symbols = []
 
         for symbol, data in st.session_state.all_data.items():
@@ -144,5 +160,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 #%%
