@@ -98,7 +98,7 @@ def main():
 
     # Initial stock list
     # initial_stock_list="AAPL,GOOGL,MSFT"
-    initial_stock_list="SPY,QQQ,IWM,MSFT,AAPL,NVDA,AMZN,GOOGL,GOOG,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,BABA,INTC,VZ,CMCSA,UBER,PFE,ARM"
+    initial_stock_list=("SPY,QQQ,IWM,fngu, soxl, tna, fas, arkk, arkb,MSFT,AAPL,NVDA,AMZN,GOOGL,GOOG,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,BABA,INTC,VZ,CMCSA,UBER,PFE,ARM,NEE,T,MU,C,BMY,SHOP,CVS,PBR,MO,SLB,CSX,PYPL,FCX,COIN,ITUB,MRVL,NU,PLTR,VALE,ET,SQ,F,GM,KMI,ABEV,NEM,KVUE,JD,CVE,PCG,BCS,CPNG,BBD,GOLD,DKNG,HPE,CCL,WBD,NOK,HBAN,SNAP,ERIC,WBA,HOOD,CNHI,SIRI,KEY,PATH,GRAB,AFRM,RIVN,U,AAL,XPEV,NCLH,PARA,LYFT,SWN,NIO,SOFI,KGC")
     symbols_input = st.text_input("Enter stock symbols, separated by commas",initial_stock_list )
     symbols = symbols_input.split(',')
 
