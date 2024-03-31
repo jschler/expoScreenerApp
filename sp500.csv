@@ -1,0 +1,502 @@
+﻿name,rank,sector,industry,country,stock,market_cap
+Apple ,1,Technology,Consumer Electronics,United States,AAPL,$2.866 T
+Microsoft ,2,Technology,Software—Infrastructure,United States,MSFT,$2.755 T
+Alphabet ,3,Communication Services,Internet Content & Information,United States,GOOG,$1.746 T
+Alphabet ,4,Communication Services,Internet Content & Information,United States,GOOG,$1.746 T
+Amazon ,5,Consumer Discretionary,Internet Retail,United States,AMZN,$1.534 T
+Nvidia ,6,Technology,Semiconductors,United States,NVDA,$1.186 T
+Meta ,7,Communication Services,Internet Content & Information,United States,META,$884.87 B
+Berkshire Hathaway ,8,Financials,Financial Conglomerates,United States,BRK.B,$797.77 B
+Tesla ,9,Consumer Discretionary,Auto Manufacturers,United States,TSLA,$758.09 B
+Lilly ,10,Healthcare,Drug Manufacturers—General,United States,LLY,$586.39 B
+Visa ,11,Financials,Credit Services,United States,V,$530.20 B
+UnitedHealth Group ,12,Healthcare,Healthcare Plans,United States,UNH,$504.47 B
+Broadcom ,13,Technology,Semiconductors,United States,AVGO,$495.95 B
+JPMorgan ,14,Financials,Banks—Diversified,United States,JPM,$495.55 B
+Walmart ,15,Consumer Staples,Discount Stores,United States,WMT,$428.87 B
+ExxonMobil ,16,Energy,Oil & Gas Integrated,United States,XOM,$412.55 B
+Mastercard ,17,Financials,Credit Services,United States,MA,$392.71 B
+Johnson & Johnson ,18,Healthcare,Drug Manufacturers—General,United States,JNJ,$387.50 B
+Procter & Gamble ,19,Consumer Staples,Household & Personal Products,United States,PG,$350.35 B
+Home Depot ,20,Consumer Discretionary,Home Improvement Retail,United States,HD,$336.99 B
+Merck ,21,Healthcare,Drug Manufacturers—General,United States,MRK,$296.51 B
+Costco ,22,Consumer Staples,Discount Stores,United States,COST,$287.69 B
+Chevron ,23,Energy,Oil & Gas Integrated,United States,CVX,$287.56 B
+AbbVie ,24,Healthcare,Drug Manufacturers—General,United States,ABBV,$285.06 B
+Oracle ,25,Technology,Software—Infrastructure,United States,ORCL,$282.01 B
+Bank of America ,26,Financials,Banks—Diversified,United States,BAC,$267.48 B
+Adobe ,27,Technology,Software—Infrastructure,United States,ADBE,$260.23 B
+Coca-Cola ,28,Consumer Staples,Beverages—Non-Alcoholic,United States,KO,$259.23 B
+Salesforce ,29,Technology,Software—Application,United States,CRM,$243.78 B
+PepsiCo ,30,Consumer Staples,Beverages—Non-Alcoholic,United States,PEP,$237.77 B
+AMD ,31,Technology,Semiconductors,United States,AMD,$219.72 B
+McDonald's ,32,Consumer Discretionary,Restaurants,United States,MCD,$213.53 B
+Accenture ,33,Technology,Information Technology Services,Ireland,ACN,$211.87 B
+Netflix ,34,Communication Services,Entertainment,United States,NFLX,$207.75 B
+Thermo Fisher Scientific ,35,Healthcare,Diagnostics & Research,United States,TMO,$207.62 B
+Cisco ,36,Technology,Communication Equipment,United States,CSCO,$205.21 B
+Intel ,37,Technology,Semiconductors,United States,INTC,$198.49 B
+Linde ,38,Basic Materials,Specialty Chemicals,United Kingdom,LIN,$198.22 B
+Abbott ,39,Healthcare,Medical Devices,United States,ABT,$192.67 B
+T-Mobile US ,40,Communication Services,Telecom Services,United States,TMUS,$187.70 B
+Wells Fargo ,41,Financials,Banks—Diversified,United States,WFC,$178.97 B
+Comcast ,42,Communication Services,Entertainment,United States,CMCSA,$174.33 B
+Danaher ,43,Healthcare,Diagnostics & Research,United States,DHR,$171.89 B
+Pfizer ,44,Healthcare,Drug Manufacturers—General,United States,PFE,$167.87 B
+Disney ,45,Communication Services,Entertainment,United States,DIS,$167.75 B
+Verizon ,46,Communication Services,Telecom Services,United States,VZ,$165.52 B
+Intuit ,47,Technology,Software—Application,United States,INTU,$165.41 B
+Amgen ,48,Healthcare,Drug Manufacturers—General,United States,AMGN,$162.25 B
+Nike ,49,Consumer Discretionary,Footwear & Accessories,United States,NKE,$158.34 B
+Qualcomm ,50,Technology,Semiconductors,United States,QCOM,$153.17 B
+Texas Instruments ,51,Technology,Semiconductors,United States,TXN,$151.39 B
+Morgan Stanley ,52,Financials,Capital Markets,United States,MS,$151.25 B
+Philip Morris ,53,Consumer Staples,Tobacco,United States,PM,$148.50 B
+Boeing ,54,Industrials,Aerospace & Defense,United States,BA,$148.18 B
+Union Pacific ,55,Industrials,Railroads,United States,UNP,$147.34 B
+IBM ,56,Technology,Information Technology Services,United States,IBM,$146.88 B
+Caterpillar ,57,Industrials,Farm & Heavy Construction Machinery,United States,CAT,$145.65 B
+ConocoPhillips ,58,Energy,Oil & Gas E&P,United States,COP,$142.41 B
+ServiceNow ,59,Technology,Software—Application,United States,NOW,$138.47 B
+American Express ,60,Financials,Credit Services,United States,AXP,$136.38 B
+S&P Global ,61,Financials,Financial Data & Stock Exchanges,United States,Industry:,$136.18 B
+General Electric ,62,Industrials,Specialty Industrial Machinery,United States,GE,$135.68 B
+Honeywell ,63,Industrials,Specialty Industrial Machinery,United States,HON,$135.08 B
+UPS ,64,Industrials,Integrated Freight & Logistics,United States,UPS,$134.21 B
+NextEra Energy ,65,Utilities,Utilities—Regulated Electric,United States,NEE,$127.19 B
+Applied Materials ,66,Technology,Semiconductor Equipment & Materials,United States,AMAT,$125.87 B
+Goldman Sachs ,67,Financials,Capital Markets,United States,GS,$124.88 B
+AT&T ,68,Communication Services,Telecom Services,United States,T,$123.19 B
+RTX Corporation ,69,Industrials,Aerospace & Defense,United States,RTX,$123.10 B
+Schwab ,70,Financials,Capital Markets,United States,SCHW,$122.20 B
+Lowe's ,71,Consumer Discretionary,Home Improvement Retail,United States,LOW,$122.08 B
+"Prologis, Inc. ",72,Real Estate,REIT—Industrial,United States,PLD,$120.60 B
+Booking Holdings Inc. ,73,Consumer Discretionary,Travel Services,United States,BKNG,$119.32 B
+BlackRock ,74,Financials,Asset Management,United States,BLK,$116.92 B
+Elevance Health ,75,Healthcare,Healthcare Plans,United States,ELV,$113.92 B
+Lockheed Martin ,76,Industrials,Aerospace & Defense,United States,LMT,$113.91 B
+"Intuitive Surgical, Inc. ",77,Healthcare,Medical Instruments & Supplies,United States,ISRG,$113.81 B
+Stryker Corporation ,78,Healthcare,Medical Devices,United States,SYK,$113.24 B
+Medtronic ,79,Healthcare,Medical Devices,Ireland,MDT,$111.60 B
+John Deere ,80,Industrials,Farm & Heavy Construction Machinery,United States,DE,$110.24 B
+Vertex Pharmaceuticals Incorporated ,81,Healthcare,Biotechnology,United States,VRTX,$107.23 B
+Bristol Myers Squibb ,82,Healthcare,Drug Manufacturers—General,United States,BMY,$106.42 B
+Starbucks ,83,Consumer Discretionary,Restaurants,United States,SBUX,$106.34 B
+"The TJX Companies, Inc. ",84,Consumer Discretionary,Apparel Retail,United States,TJX,$105.74 B
+"Gilead Sciences, Inc. ",85,Healthcare,Drug Manufacturers—General,United States,GILD,$105.27 B
+CVS Health ,86,Healthcare,Healthcare Plans,United States,CVS,$104.08 B
+Citigroup Inc. ,87,Financials,Banks—Diversified,United States,C,$102.91 B
+American Tower ,88,Real Estate,REIT—Specialty,United States,AMT,$100.44 B
+"Regeneron Pharmaceuticals, Inc. ",89,Healthcare,Biotechnology,United States,REGN,$100.01 B
+"Mondelez International, Inc. ",90,Consumer Staples,Confectioners,United States,MDLZ,$99.73 B
+Lam Research ,91,Technology,Semiconductor Equipment & Materials,United States,LRCX,$97.14 B
+"Automatic Data Processing, Inc. ",92,Industrials,Staffing & Employment Services,United States,ADP,$96.11 B
+The Progressive Corporation ,93,Financials,Insurance—Property & Casualty,United States,PGR,$95.50 B
+"Marsh & McLennan Companies, Inc. ",94,Financials,Insurance Brokers,United States,MMC,$94.42 B
+Analog Devices ,95,Technology,Semiconductors,United States,ADI,$93.79 B
+Eaton Corporation plc ,96,Industrials,Specialty Industrial Machinery,Ireland,ETN,$93.63 B
+Chubb Limited ,97,Financials,Insurance—Property & Casualty,Switzerland,CB,$92.74 B
+"Micron Technology, Inc. ",98,Technology,Semiconductors,United States,MU,$91.30 B
+Palo Alto Networks ,99,Technology,Software—Infrastructure,United States,PANW,$90.41 B
+Cigna Corporation ,100,Healthcare,Healthcare Plans,United States,CI,$89.61 B
+Zoetis Inc. ,101,Healthcare,Drug Manufacturers—Specialty & Generic,United States,ZTS,$89.09 B
+Boston Scientific Corporation ,102,Healthcare,Medical Devices,United States,BSX,$85.22 B
+Fiserv ,103,Technology,Information Technology Services,United States,FI,$79.73 B
+The Southern Company ,104,Utilities,Utilities—Regulated Electric,United States,SO,$78.21 B
+Illinois Tool Works Inc. ,105,Industrials,Specialty Industrial Machinery,United States,ITW,$78.04 B
+Duke Energy Corporation ,106,Utilities,Utilities—Regulated Electric,United States,DUK,$76.13 B
+The Sherwin-Williams Company ,107,Basic Materials,Specialty Chemicals,United States,SHW,$75.71 B
+Schlumberger Limited ,108,Energy,Oil & Gas Equipment & Services,United States,SLB,$75.21 B
+KLA ,109,Technology,Semiconductor Equipment & Materials,United States,KLAC,$75.13 B
+"Equinix, Inc. (REIT) ",110,Real Estate,REIT—Specialty,United States,EQIX,$74.75 B
+Synopsys ,111,Technology,Software—Infrastructure,United States,SNPS,$74.64 B
+"Altria Group, Inc. ",112,Consumer Staples,Tobacco,United States,MO,$73.43 B
+"HCA Healthcare, Inc. ",113,Healthcare,Medical Care Facilities,United States,HCA,$73.10 B
+CME Group Inc. ,114,Financials,Financial Data & Stock Exchanges,United States,Industry:,$72.98 B
+"EOG Resources, Inc. ",115,Energy,Oil & Gas E&P,United States,EOG,$72.88 B
+"Waste Management, Inc. ",116,Industrials,Waste Management,United States,WM,$72.01 B
+"Intercontinental Exchange, Inc. ",117,Financials,Financial Data & Stock Exchanges,United States,Industry:,$71.90 B
+"Arista Networks, Inc. ",118,Technology,Computer Hardware,United States,ANET,$71.73 B
+Northrop Grumman Corporation ,119,Industrials,Aerospace & Defense,United States,NOC,$71.61 B
+"Activision Blizzard, Inc. ",120,Communication Services,Electronic Gaming & Multimedia,United States,ATVI,"$70.75 B
+                                        (July 1, 2023)"
+"Becton, Dickinson and Company ",121,Healthcare,Medical Instruments & Supplies,United States,BDX,$70.33 B
+General Dynamics Corporation ,122,Industrials,Aerospace & Defense,United States,GD,$70.01 B
+Cadence ,123,Technology,Software—Application,United States,CDNS,$69.99 B
+Moody's Corporation ,124,Financials,Financial Data & Stock Exchanges,United States,Industry:,$68.67 B
+CSX Corporation ,125,Industrials,Railroads,United States,CSX,$68.61 B
+U.S. Bancorp ,126,Financials,Banks—Regional,United States,USB,$67.28 B
+Colgate-Palmolive Company ,127,Consumer Staples,Household & Personal Products,United States,CL,$66.15 B
+Target Corporation ,128,Consumer Staples,Discount Stores,United States,TGT,$64.75 B
+"Marriott International, Inc. ",129,Consumer Discretionary,Lodging,United States,MAR,$64.62 B
+McKesson Corporation ,130,Healthcare,Medical Distribution,United States,MCK,$63.92 B
+PayPal ,131,Financials,Credit Services,United States,PYPL,$63.02 B
+FedEx Corporation ,132,Industrials,Integrated Freight & Logistics,United States,FDX,$61.88 B
+"Chipotle Mexican Grill, Inc. ",133,Consumer Discretionary,Restaurants,United States,CMG,$61.30 B
+"The PNC Financial Services Group, Inc. ",134,Financials,Banks—Regional,United States,PNC,$60.76 B
+"Air Products and Chemicals, Inc. ",135,Basic Materials,Chemicals,United States,APD,$60.19 B
+Monster Beverage Corporation ,136,Consumer Staples,Beverages—Non-Alcoholic,United States,MNST,$60.04 B
+Marathon Petroleum Corporation ,137,Energy,Oil & Gas Refining & Marketing,United States,MPC,$59.95 B
+3M Company ,138,Industrials,Specialty Industrial Machinery,United States,MMM,$59.74 B
+Phillips 66 ,139,Energy,Oil & Gas Refining & Marketing,United States,PSX,$59.72 B
+Cintas Corporation ,140,Industrials,Specialty Business Services,United States,CTAS,$59.02 B
+Freeport-McMoRan Inc. ,141,Basic Materials,Copper,United States,FCX,$58.59 B
+Aon Plc ,142,Financials,Insurance Brokers,Ireland,AON,$58.24 B
+Parker-Hannifin Corporation ,143,Industrials,Specialty Industrial Machinery,United States,PH,$58.08 B
+Humana Inc. ,144,Healthcare,Healthcare Plans,United States,HUM,$57.44 B
+Charter Communications ,145,Communication Services,Entertainment,United States,CHTR,$57.18 B
+Amphenol ,146,Technology,Electronic Components,United States,APH,$56.89 B
+"Roper Technologies, Inc. ",147,Industrials,Specialty Industrial Machinery,United States,ROP,$56.71 B
+Ecolab Inc. ,148,Basic Materials,Specialty Chemicals,United States,ECL,$55.92 B
+"O'Reilly Automotive, Inc. ",149,Consumer Discretionary,Specialty Retail,United States,ORLY,$55.83 B
+NXP Semiconductors N.V. ,150,Technology,Semiconductors,Netherlands,NXPI,$55.69 B
+Trane Technologies plc ,151,Industrials,Specialty Industrial Machinery,Ireland,TT,$54.54 B
+Emerson Electric Co. ,152,Industrials,Specialty Industrial Machinery,United States,EMR,$54.35 B
+TransDigm Group Incorporated ,153,Industrials,Aerospace & Defense,United States,TDG,$53.96 B
+Pioneer Natural Resources Company ,154,Energy,Oil & Gas E&P,United States,PXD,$53.57 B
+Public Storage ,155,Real Estate,REIT—Industrial,United States,PSA,$53.43 B
+Occidental Petroleum Corporation ,156,Energy,Oil & Gas E&P,United States,OXY,$53.19 B
+Norfolk Southern Corporation ,157,Industrials,Railroads,United States,NSC,$52.68 B
+"Simon Property Group, Inc. ",158,Real Estate,REIT—Retail,United States,SPG,$52.56 B
+Motorola Solutions ,159,Technology,Communication Equipment,United States,MSI,$51.78 B
+"Republic Services, Inc. ",160,Industrials,Waste Management,United States,RSG,$51.65 B
+"MetLife, Inc. ",161,Financials,Insurance—Life,United States,MET,$49.96 B
+Capital One Financial Corporation ,162,Financials,Credit Services,United States,COF,$49.78 B
+PACCAR Inc ,163,Industrials,Farm & Heavy Construction Machinery,United States,PCAR,$49.66 B
+The Estée Lauder Companies Inc. ,164,Consumer Staples,Household & Personal Products,United States,EL,$49.62 B
+Crown Castle International Corp. (REIT) ,165,Real Estate,REIT—Specialty,United States,CCI,$49.44 B
+Truist Financial Corporation ,166,Financials,Banks—Regional,United States,TFC,$49.31 B
+"D.R. Horton, Inc. ",167,Consumer Discretionary,Residential Construction,United States,DHI,$49.27 B
+Welltower Inc. ,168,Real Estate,REIT—Healthcare Facilities,United States,WELL,$49.21 B
+"Autodesk, Inc. ",169,Technology,Software—Application,United States,ADSK,$48.97 B
+Arthur J. Gallagher & Co. ,170,Financials,Insurance Brokers,United States,AJG,$48.77 B
+General Motors Company ,171,Consumer Discretionary,Auto Manufacturers,United States,GM,$48.60 B
+"American International Group, Inc. ",172,Financials,Insurance—Diversified,United States,AIG,$48.18 B
+Aflac Incorporated ,173,Financials,Insurance—Life,United States,AFL,$48.09 B
+Sempra Energy ,174,Utilities,Utilities—Diversified,United States,SRE,$47.84 B
+Ford Motor Company ,175,Consumer Discretionary,Auto Manufacturers,United States,F,$46.87 B
+The Kraft Heinz Company ,176,Consumer Staples,Packaged Foods,United States,KHC,$46.69 B
+Carrier Global Corporation ,177,Industrials,Building Products & Equipment,United States,CARR,$46.55 B
+"DexCom, Inc. ",178,Healthcare,Diagnostics & Research,United States,DXCM,$46.50 B
+Newmont Corporation ,179,Basic Materials,Gold,United States,NEM,$46.24 B
+Hilton Worldwide Holdings Inc. ,180,Consumer Discretionary,Lodging,United States,HLT,$45.88 B
+Microchip Technology Incorporated ,181,Technology,Semiconductors,United States,MCHP,$45.77 B
+PG&E Corporation ,182,Utilities,Utilities—Regulated Electric,United States,PCG,$45.71 B
+Keurig Dr Pepper Inc. ,183,Consumer Staples,Beverages—Non-Alcoholic,United States,KDP,$45.58 B
+"Ross Stores, Inc. ",184,Consumer Discretionary,Apparel Retail,United States,ROST,$45.54 B
+Valero Energy Corporation ,185,Energy,Oil & Gas Refining & Marketing,United States,VLO,$45.53 B
+Hess Corporation ,186,Energy,Oil & Gas E&P,United States,HES,$45.40 B
+"Copart, Inc. ",187,Industrials,Specialty Business Services,United States,CPRT,$44.97 B
+"Fortinet, Inc. ",188,Technology,Software—Infrastructure,United States,FTNT,$44.84 B
+"IDEXX Laboratories, Inc. ",189,Healthcare,Diagnostics & Research,United States,IDXX,$44.72 B
+Edwards Lifesciences Corporation ,190,Healthcare,Medical Devices,United States,EW,$44.59 B
+"Constellation Brands, Inc. ",191,Consumer Staples,Beverages—Wineries & Distilleries,United States,STZ,$44.51 B
+"AutoZone, Inc. ",192,Consumer Discretionary,Specialty Retail,United States,AZO,$44.40 B
+MSCI Inc. ,193,Financials,Financial Data & Stock Exchanges,United States,Industry:,$44.27 B
+"The Williams Companies, Inc. ",194,Energy,Oil & Gas Midstream,United States,WMB,$44.17 B
+"The Travelers Companies, Inc. ",195,Financials,Insurance—Property & Casualty,United States,TRV,$43.98 B
+"American Electric Power Company, Inc. ",196,Utilities,Utilities—Regulated Electric,United States,AEP,$43.85 B
+"Cencora, Inc. ",197,Healthcare,Medical Distribution,United States,COR,$43.41 B
+Nucor Corporation ,198,Basic Materials,Steel,United States,NUE,$43.41 B
+TE Connectivity Ltd. ,199,Technology,Electronic Components,Switzerland,TEL,$42.62 B
+"Old Dominion Freight Line, Inc. ",200,Industrials,Trucking,United States,ODFL,$42.47 B
+"Paychex, Inc. ",201,Industrials,Staffing & Employment Services,United States,PAYX,$42.41 B
+Realty Income Corporation ,202,Real Estate,REIT—Retail,United States,O,$41.79 B
+"ONEOK, Inc. ",203,Energy,Oil & Gas Midstream,United States,OKE,$41.79 B
+"Moderna, Inc. ",204,Healthcare,Biotechnology,United States,MRNA,$41.43 B
+Kimberly-Clark Corporation ,205,Consumer Staples,Household & Personal Products,United States,KMB,$41.41 B
+"Digital Realty Trust, Inc. ",206,Real Estate,REIT—Office,United States,DLR,$41.30 B
+Centene Corporation ,207,Healthcare,Healthcare Plans,United States,CNC,$41.25 B
+Lennar Corporation ,208,Consumer Discretionary,Residential Construction,United States,LEN,$40.96 B
+"Dominion Energy, Inc. ",209,Utilities,Utilities—Diversified,United States,D,$40.53 B
+"W.W. Grainger, Inc. ",210,Industrials,Industrial Distribution,United States,GWW,$40.50 B
+IQVIA Holdings Inc. ,211,Healthcare,Diagnostics & Research,United States,IQV,$40.16 B
+"Kinder Morgan, Inc. ",212,Energy,Oil & Gas Midstream,United States,KMI,$40.12 B
+The Bank of New York Mellon Corporation ,213,Financials,Asset Management,United States,BK,$40.00 B
+"L3Harris Technologies, Inc. ",214,Industrials,Aerospace & Defense,United States,LHX,$39.77 B
+The Hershey Company ,215,Consumer Staples,Confectioners,United States,HSY,$39.23 B
+Archer-Daniels-Midland Company ,216,Consumer Staples,Farm Products,United States,ADM,$39.01 B
+The Allstate Corporation ,217,Financials,Insurance—Property & Casualty,United States,ALL,$38.86 B
+Johnson Controls International plc ,218,Industrials,Engineering & Construction,Ireland,JCI,$38.59 B
+"Ameriprise Financial, Inc. ",219,Financials,Asset Management,United States,AMP,$38.51 B
+"Agilent Technologies, Inc. ",220,Healthcare,Diagnostics & Research,United States,A,$38.43 B
+Dow Inc. ,221,Basic Materials,Chemicals,United States,DOW,$38.32 B
+Las Vegas Sands Corp. ,222,Consumer Discretionary,Resorts & Casinos,United States,LVS,$38.17 B
+Biogen Inc. ,223,Healthcare,Drug Manufacturers—General,United States,BIIB,$38.17 B
+"General Mills, Inc. ",224,Consumer Staples,Packaged Foods,United States,GIS,$37.90 B
+Sysco Corporation ,225,Consumer Staples,Food Distribution,United States,SYY,$37.89 B
+"United Rentals, Inc. ",226,Industrials,Rental & Leasing Services,United States,URI,$37.20 B
+"Prudential Financial, Inc. ",227,Financials,Insurance—Life,United States,PRU,$37.14 B
+"AMETEK, Inc. ",228,Industrials,Specialty Industrial Machinery,United States,AME,$37.07 B
+Constellation Energy ,229,Utilities,Utilities—Renewable,United States,CEG,$37.00 B
+Cognizant Technology Solutions Corporation ,230,Technology,Information Technology Services,United States,CTSH,$36.93 B
+Electronic Arts Inc. ,231,Communication Services,Electronic Gaming & Multimedia,United States,EA,$36.57 B
+"Yum! Brands, Inc. ",232,Consumer Discretionary,Restaurants,United States,YUM,$36.19 B
+Exelon Corporation ,233,Utilities,Utilities—Diversified,United States,EXC,$36.01 B
+"Fidelity National Information Services, Inc. ",234,Technology,Information Technology Services,United States,FIS,$35.89 B
+Otis Worldwide Corporation ,235,Industrials,Specialty Industrial Machinery,United States,OTIS,$35.88 B
+Fastenal Company ,236,Industrials,Industrial Distribution,United States,FAST,$35.55 B
+Xcel Energy Inc. ,237,Utilities,Utilities—Regulated Electric,United States,XEL,$35.17 B
+"Rockwell Automation, Inc. ",238,Industrials,Specialty Industrial Machinery,United States,ROK,$34.91 B
+GE HealthCare ,239,Healthcare,Health Information Services,United States,GEHC,$34.86 B
+Extra Space Storage Inc. ,240,Real Estate,REIT—Industrial,United States,EXR,$34.70 B
+"Verisk Analytics, Inc. ",241,Industrials,Consulting Services,United States,VRSK,$34.50 B
+Baker Hughes Company ,242,Energy,Oil & Gas Equipment & Services,United States,BKR,$34.34 B
+"PPG Industries, Inc. ",243,Basic Materials,Specialty Chemicals,United States,PPG,$34.34 B
+ON Semiconductor Corporation ,244,Technology,Semiconductors,United States,ON,$34.18 B
+"Corteva, Inc. ",245,Basic Materials,Agricultural Inputs,United States,CTVA,$33.88 B
+"CoStar Group, Inc. ",246,Real Estate,Real Estate Services,United States,CSGP,$33.81 B
+Cummins Inc. ,247,Industrials,Specialty Industrial Machinery,United States,CMI,$33.70 B
+"Gartner, Inc. ",248,Technology,Information Technology Services,United States,IT,$33.61 B
+VICI Properties Inc. ,249,Real Estate,REIT—Diversified,United States,VICI,$33.56 B
+The Kroger Co. ,250,Consumer Staples,Grocery Stores,United States,KR,$33.42 B
+"DuPont de Nemours, Inc. ",251,Basic Materials,Chemicals,United States,DD,$33.12 B
+Global Payments Inc. ,252,Industrials,Specialty Business Services,United States,GPN,$32.76 B
+Halliburton Company ,253,Energy,Oil & Gas Equipment & Services,United States,HAL,$32.73 B
+"Nasdaq, Inc. ",254,Financials,Financial Data & Stock Exchanges,United States,Industry:,$32.33 B
+"Consolidated Edison, Inc. ",255,Utilities,Utilities—Regulated Electric,United States,ED,$32.19 B
+LyondellBasell Industries N.V. ,256,Basic Materials,Specialty Chemicals,United States,LYB,$31.32 B
+Public Service Enterprise Group Incorporated ,257,Utilities,Utilities—Diversified,United States,PEG,$30.80 B
+Royal Caribbean Cruises Ltd. ,258,Consumer Discretionary,Travel Services,United States,RCL,$30.49 B
+Ingersoll Rand Inc. ,259,Industrials,Specialty Industrial Machinery,United States,IR,$30.34 B
+"Martin Marietta Materials, Inc. ",260,Basic Materials,Building Materials,United States,MLM,$30.04 B
+Devon Energy Corporation ,261,Energy,Oil & Gas E&P,United States,DVN,$29.99 B
+"ANSYS, Inc. ",262,Technology,Software—Application,United States,ANSS,$29.90 B
+"Dollar Tree, Inc. ",263,Consumer Staples,Discount Stores,United States,DLTR,$29.79 B
+HP Inc. ,264,Technology,Computer Hardware,United States,HPQ,$29.63 B
+Dollar General Corporation ,265,Consumer Staples,Discount Stores,United States,DG,$29.58 B
+Vulcan Materials Company ,266,Basic Materials,Building Materials,United States,VMC,$29.32 B
+"Quanta Services, Inc. ",267,Industrials,Engineering & Construction,United States,PWR,$29.31 B
+CDW Corporation ,268,Technology,Information Technology Services,United States,CDW,$29.10 B
+Arch Capital Group Ltd. ,269,,,,ACGL,$28.91 B
+Equifax Inc. ,270,Industrials,Consulting Services,United States,EFX,$28.84 B
+Fair Isaac Corporation ,271,Technology,Software—Application,United States,FICO,$28.77 B
+"Diamondback Energy, Inc. ",272,Energy,Oil & Gas E&P,United States,FANG,$28.67 B
+Edison International ,273,Utilities,Utilities—Regulated Electric,United States,EIX,$27.73 B
+"Monolithic Power Systems, Inc. ",274,Technology,Semiconductors,United States,MPWR,$27.71 B
+Discover Financial Services ,275,Financials,Credit Services,United States,DFS,$27.69 B
+Warner Bros. Discovery ,276,Communication Services,Entertainment,United States,WBD,$27.68 B
+"WEC Energy Group, Inc. ",277,Utilities,Utilities—Regulated Electric,United States,WEC,$27.32 B
+"CBRE Group, Inc. ",278,Real Estate,Real Estate Services,United States,CBRE,$27.14 B
+Xylem Inc. ,279,Industrials,Specialty Industrial Machinery,United States,XYL,$27.08 B
+"Take-Two Interactive Software, Inc. ",280,Communication Services,Electronic Gaming & Multimedia,United States,TTWO,$27.02 B
+SBA Communications Corporation ,281,Real Estate,REIT—Specialty,United States,SBAC,$26.96 B
+Brown-Forman Corporation ,282,Consumer Staples,Beverages—Wineries & Distilleries,United States,BF.B,$26.93 B
+"Keysight Technologies, Inc. ",283,Technology,Scientific & Technical Instruments,United States,KEYS,$26.37 B
+"AvalonBay Communities, Inc. ",284,Real Estate,REIT—Residential,United States,AVB,$26.07 B
+"Cardinal Health, Inc. ",285,Healthcare,Medical Distribution,United States,CAH,$26.02 B
+"American Water Works Company, Inc. ",286,Utilities,Utilities—Regulated Water,United States,AWK,$26.00 B
+Corning Incorporated ,287,Technology,Electronic Components,United States,GLW,$25.83 B
+"Delta Air Lines, Inc. ",288,Industrials,Airlines,United States,DAL,$25.22 B
+"Zimmer Biomet Holdings, Inc. ",289,Healthcare,Medical Devices,United States,ZBH,$25.18 B
+Fortive Corporation ,290,Technology,Scientific & Technical Instruments,United States,FTV,$25.13 B
+"West Pharmaceutical Services, Inc. ",291,Healthcare,Medical Instruments & Supplies,United States,WST,$25.08 B
+Mettler-Toledo International Inc. ,292,Healthcare,Diagnostics & Research,United States,MTD,$24.92 B
+Weyerhaeuser Company ,293,Real Estate,REIT—Specialty,United States,WY,$24.86 B
+Willis Towers Watson plc ,294,Financials,Insurance Brokers,United Kingdom,WTW,$24.85 B
+"The Hartford Financial Services Group, Inc. ",295,Financials,Insurance—Diversified,United States,HIG,$24.66 B
+ResMed Inc. ,296,Healthcare,Medical Instruments & Supplies,United States,RMD,$24.65 B
+Aptiv PLC ,297,Consumer Discretionary,Auto Parts,Ireland,APTV,$23.90 B
+State Street Corporation ,298,Financials,Asset Management,United States,STT,$23.88 B
+Garmin Ltd. ,299,Technology,Scientific & Technical Instruments,Switzerland,GRMN,$23.75 B
+"T. Rowe Price Group, Inc. ",300,Financials,Asset Management,United States,TROW,$23.75 B
+Fifth Third Bancorp ,301,Financials,Banks—Regional,United States,FITB,$23.44 B
+"Church & Dwight Co., Inc. ",302,Consumer Staples,Household & Personal Products,United States,CHD,$23.29 B
+Tractor Supply Company ,303,Consumer Discretionary,Specialty Retail,United States,TSCO,$23.25 B
+"Broadridge Financial Solutions, Inc. ",304,Technology,Information Technology Services,United States,BR,$23.19 B
+Equity Residential ,305,Real Estate,REIT—Residential,United States,EQR,$23.07 B
+"Ulta Beauty, Inc. ",306,Consumer Discretionary,Specialty Retail,United States,ULTA,$23.01 B
+"Raymond James Financial, Inc. ",307,Financials,Capital Markets,United States,RJF,$22.98 B
+DTE Energy Company ,308,Utilities,Utilities—Regulated Electric,United States,DTE,$22.89 B
+M&T Bank Corporation ,309,Financials,Banks—Regional,United States,MTB,$22.62 B
+eBay Inc. ,310,Consumer Discretionary,Internet Retail,United States,EBAY,$22.61 B
+Eversource Energy ,311,Utilities,Utilities—Regulated Electric,United States,ES,$22.46 B
+Wabtec Corporation ,312,Industrials,Railroads,United States,WAB,$22.34 B
+Hewlett Packard Enterprise Company ,313,Technology,Communication Equipment,United States,HPE,$22.15 B
+"NVR, Inc. ",314,Consumer Discretionary,Residential Construction,United States,NVR,$22.09 B
+"Molina Healthcare, Inc. ",315,Healthcare,Healthcare Plans,United States,MOH,$22.08 B
+"Walgreens Boots Alliance, Inc. ",316,Healthcare,Pharmaceutical Retailers,United States,WBA,$22.04 B
+"Alexandria Real Estate Equities, Inc. ",317,Real Estate,REIT—Office,United States,ARE,$21.84 B
+Entergy Corporation ,318,Utilities,Utilities—Diversified,United States,ETR,$21.80 B
+Howmet Aerospace Inc. ,319,Industrials,Specialty Industrial Machinery,United States,HWM,$21.72 B
+FirstEnergy Corp. ,320,Utilities,Utilities—Diversified,United States,FE,$21.68 B
+"PulteGroup, Inc. ",321,Consumer Discretionary,Residential Construction,United States,PHM,$21.66 B
+Carnival Corporation & plc ,322,Consumer Discretionary,Travel Services,United States,CCL,$21.36 B
+STERIS plc ,323,Healthcare,Medical Instruments & Supplies,Ireland,STE,$21.34 B
+Invitation Homes Inc. ,324,Real Estate,REIT—Residential,United States,INVH,$20.90 B
+"Illumina, Inc. ",325,Healthcare,Diagnostics & Research,United States,ILMN,$20.87 B
+Dover Corporation ,326,Industrials,Specialty Industrial Machinery,United States,DOV,$20.75 B
+Teledyne Technologies Incorporated ,327,Technology,Scientific & Technical Instruments,United States,TDY,$20.73 B
+"Rollins, Inc. ",328,Consumer Discretionary,Personal Services,United States,ROL,$20.71 B
+"Live Nation Entertainment, Inc. ",329,Communication Services,Entertainment,United States,LYV,$20.58 B
+"VeriSign, Inc. ",330,Technology,Software—Infrastructure,United States,VRSN,$20.54 B
+International Flavors & Fragrances Inc. ,331,Basic Materials,Specialty Chemicals,United States,IFF,$20.42 B
+PPL Corporation ,332,Utilities,Utilities—Regulated Electric,United States,PPL,$20.39 B
+"FLEETCOR Technologies, Inc. ",333,Technology,Information Technology Services,United States,FLT,$20.28 B
+"Expedia Group, Inc. ",334,Consumer Discretionary,Travel Services,United States,EXPE,$20.13 B
+"Brown & Brown, Inc. ",335,Financials,Insurance Brokers,United States,BRO,$20.06 B
+PTC Inc. ,336,Technology,Software—Application,United States,PTC,$20.00 B
+"Ventas, Inc. ",337,Real Estate,REIT—Healthcare Facilities,United States,VTR,$19.98 B
+"J.B. Hunt Transport Services, Inc. ",338,Industrials,Integrated Freight & Logistics,United States,JBHT,$19.80 B
+Kellogg Company ,339,Consumer Staples,Packaged Foods,United States,K,$19.69 B
+"Align Technology, Inc. ",340,Healthcare,Medical Devices,United States,ALGN,$19.62 B
+Baxter International Inc. ,341,Healthcare,Medical Instruments & Supplies,United States,BAX,$19.60 B
+Targa Resources Corp. ,342,Energy,Oil & Gas Midstream,United States,TRGP,$19.57 B
+"Contura Energy, Inc. ",343,Energy,Thermal Coal,United States,CTRA,$19.47 B
+Iron Mountain Incorporated ,344,Real Estate,REIT—Specialty,United States,IRM,$19.43 B
+Ameren Corporation ,345,Utilities,Utilities—Regulated Electric,United States,AEE,$19.43 B
+"Tyson Foods, Inc. ",346,Consumer Staples,Farm Products,United States,TSN,$19.40 B
+"Darden Restaurants, Inc. ",347,Consumer Discretionary,Restaurants,United States,DRI,$19.37 B
+"Steel Dynamics, Inc. ",348,Basic Materials,Steel,United States,STLD,$19.27 B
+Laboratory Corporation of America Holdings ,349,Healthcare,Diagnostics & Research,United States,LH,$19.25 B
+Genuine Parts Company ,350,Consumer Discretionary,Specialty Retail,United States,GPC,$19.09 B
+"Principal Financial Group, Inc. ",351,Financials,Insurance—Diversified,United States,PFG,$18.93 B
+W. R. Berkley Corporation ,352,Financials,Insurance—Property & Casualty,United States,WRB,$18.87 B
+"Axon Enterprise, Inc. ",353,Industrials,Aerospace & Defense,United States,AXON,$18.55 B
+"McCormick & Company, Incorporated ",354,Consumer Staples,Packaged Foods,United States,MKC,$18.51 B
+"Expeditors International of Washington, Inc. ",355,Industrials,Integrated Freight & Logistics,United States,EXPD,$18.51 B
+"Cboe Global Markets, Inc. ",356,Financials,Financial Data & Stock Exchanges,United States,Industry:,$18.46 B
+Huntington Bancshares Incorporated ,357,Financials,Banks—Regional,United States,HBAN,$18.43 B
+"CenterPoint Energy, Inc. ",358,Utilities,Utilities—Regulated Gas,United States,CNP,$18.39 B
+Waters Corporation ,359,Healthcare,Diagnostics & Research,United States,WAT,$18.17 B
+"The Cooper Companies, Inc. ",360,Healthcare,Medical Instruments & Supplies,United States,COO,$18.13 B
+"First Solar, Inc. ",361,Technology,Solar,United States,FSLR,$17.88 B
+Ball Corporation ,362,Consumer Discretionary,Packaging & Containers,United States,BALL,$17.86 B
+Hormel Foods Corporation ,363,Consumer Staples,Packaged Foods,United States,HRL,$17.83 B
+Atmos Energy Corporation ,364,Utilities,Utilities—Regulated Gas,United States,ATO,$17.80 B
+"NetApp, Inc. ",365,Technology,Computer Hardware,United States,NTAP,$17.78 B
+The Clorox Company ,366,Consumer Staples,Household & Personal Products,United States,CLX,$17.67 B
+Regions Financial Corporation ,367,Financials,Banks—Regional,United States,RF,$17.64 B
+"Akamai Technologies, Inc. ",368,Technology,Software—Infrastructure,United States,AKAM,$17.54 B
+"Hologic, Inc. ",369,Healthcare,Medical Instruments & Supplies,United States,HOLX,$17.49 B
+FactSet Research Systems Inc. ,370,Financials,Financial Data & Stock Exchanges,United States,Industry:,$17.40 B
+CMS Energy Corporation ,371,Utilities,Utilities—Regulated Electric,United States,CMS,$17.32 B
+"Tyler Technologies, Inc. ",372,Technology,Software—Application,United States,TYL,$17.14 B
+Northern Trust Corporation ,373,Financials,Asset Management,United States,NTRS,$17.09 B
+Seagate Technology plc ,374,Technology,Computer Hardware,Ireland,STX,$16.90 B
+Omnicom Group Inc. ,375,Communication Services,Advertising Agencies,United States,OMC,$16.84 B
+"Skyworks Solutions, Inc. ",376,Technology,Semiconductors,United States,SWKS,$16.83 B
+"EPAM Systems, Inc. ",377,Technology,Information Technology Services,United States,EPAM,$16.75 B
+"Enphase Energy, Inc. ",378,Technology,Solar,United States,ENPH,$16.75 B
+Cincinnati Financial Corporation ,379,Financials,Insurance—Property & Casualty,United States,CINF,$16.73 B
+Southwest Airlines Co. ,380,Industrials,Airlines,United States,LUV,$16.65 B
+Albemarle Corporation ,381,Basic Materials,Specialty Chemicals,United States,ALB,$16.45 B
+Celanese Corporation ,382,Basic Materials,Chemicals,United States,CE,$16.35 B
+Western Digital Corporation ,383,Technology,Computer Hardware,United States,WDC,$16.33 B
+"Best Buy Co., Inc. ",384,Consumer Discretionary,Specialty Retail,United States,BBY,$16.25 B
+"Essex Property Trust, Inc. ",385,Real Estate,REIT—Residential,United States,ESS,$16.13 B
+IDEX Corporation ,386,Industrials,Specialty Industrial Machinery,United States,IEX,$16.05 B
+Jacobs Engineering Group Inc. ,387,Industrials,Engineering & Construction,United States,J,$16.02 B
+"Everest Group, Ltd. ",388,,,,EG,$15.95 B
+EQT Corporation ,389,Energy,Oil & Gas E&P,United States,EQT,$15.93 B
+Avery Dennison Corporation ,390,Industrials,Business Equipment & Supplies,United States,AVY,$15.84 B
+"Mid-America Apartment Communities, Inc. ",391,Real Estate,REIT—Residential,United States,MAA,$15.84 B
+Quest Diagnostics Incorporated ,392,Healthcare,Diagnostics & Research,United States,DGX,$15.80 B
+"CF Industries Holdings, Inc. ",393,Basic Materials,Agricultural Inputs,United States,CF,$15.80 B
+Loews Corporation ,394,Financials,Insurance—Property & Casualty,United States,L,$15.78 B
+"Teradyne, Inc. ",395,Technology,Semiconductor Equipment & Materials,United States,TER,$15.57 B
+Synchrony Financial ,396,Financials,Credit Services,United States,SYF,$15.50 B
+Textron Inc. ,397,Industrials,Aerospace & Defense,United States,TXT,$15.42 B
+"Lamb Weston Holdings, Inc. ",398,Consumer Staples,Packaged Foods,United States,LW,$15.26 B
+MGM Resorts International ,399,Consumer Discretionary,Resorts & Casinos,United States,MGM,$15.15 B
+Snap-on Incorporated ,400,Industrials,Tools & Accessories,United States,SNA,$15.08 B
+"Citizens Financial Group, Inc. ",401,Financials,Banks—Regional,United States,CFG,$15.07 B
+Incyte Corporation ,402,Healthcare,Biotechnology,United States,INCY,$14.92 B
+Packaging Corporation of America ,403,Consumer Discretionary,Packaging & Containers,United States,PKG,$14.85 B
+"Leidos Holdings, Inc. ",404,Technology,Information Technology Services,United States,LDOS,$14.83 B
+Marathon Oil Corporation ,405,Energy,Oil & Gas E&P,United States,MRO,$14.59 B
+Bunge Limited ,406,Consumer Staples,Farm Products,United States,BG,$14.57 B
+Nordson Corporation ,407,Industrials,Specialty Industrial Machinery,United States,NDSN,$14.48 B
+"Stanley Black & Decker, Inc. ",408,Industrials,Tools & Accessories,United States,SWK,$14.46 B
+Pool Corporation ,409,Consumer Discretionary,Leisure,United States,POOL,$14.46 B
+Masco Corporation ,410,Industrials,Building Products & Equipment,United States,MAS,$14.43 B
+Genesis Healthcare Inc. ,411,Healthcare,Medical Care Facilities,United States,GEN,$14.39 B
+Amcor plc ,412,Consumer Discretionary,Packaging & Containers,Switzerland,AMC,$14.20 B
+"Franklin Resources, Inc. ",413,Financials,Asset Management,United States,BEN,$14.11 B
+News Corporation ,414,Communication Services,Broadcasting,United States,NWSA,$14.06 B
+News Corporation ,415,Communication Services,Broadcasting,United States,NWSA,$14.06 B
+"Host Hotels & Resorts, Inc. ",416,Real Estate,REIT—Hotel & Motel,United States,HST,$14.00 B
+Kimco Realty Corporation ,417,Real Estate,REIT—Retail,United States,KIM,$14.00 B
+Fox Corporation ,418,Communication Services,Broadcasting,United States,FOXA,$14.00 B
+Fox Corporation ,419,Communication Services,Broadcasting,United States,FOXA,$14.00 B
+"Domino's Pizza, Inc. ",420,Consumer Discretionary,Restaurants,United States,DPZ,$14.00 B
+Insulet Corporation ,421,Healthcare,Medical Devices,United States,PODD,$13.95 B
+Viatris Inc. ,422,Healthcare,Drug Manufacturers—Specialty & Generic,United States,VTRS,$13.86 B
+The J. M. Smucker Company ,423,Consumer Staples,Packaged Foods,United States,SJM,$13.78 B
+"Conagra Brands, Inc. ",424,Consumer Staples,Packaged Foods,United States,CAG,$13.73 B
+KeyCorp ,425,Financials,Banks—Regional,United States,KEY,$13.42 B
+Molson Coors Beverage Company ,426,Consumer Staples,Beverages—Brewers,United States,TAP,$13.39 B
+"UDR, Inc. ",427,Real Estate,REIT—Residential,United States,UDR,$13.38 B
+"United Airlines Holdings, Inc. ",428,Industrials,Airlines,United States,UAL,$13.27 B
+Campbell Soup Company ,429,Consumer Staples,Packaged Foods,United States,CPB,$13.27 B
+Alliant Energy Corporation ,430,Utilities,Utilities—Regulated Electric,United States,LNT,$13.25 B
+"Revvity, Inc. ",431,Healthcare,Diagnostics & Research,United States,RVTY,$13.25 B
+Zebra Technologies Corporation ,432,Technology,Communication Equipment,United States,ZBRA,$12.99 B
+Trimble Inc. ,433,Technology,Scientific & Technical Instruments,United States,TRMB,$12.69 B
+The AES Corporation ,434,Utilities,Utilities—Diversified,United States,AES,$12.68 B
+LKQ Corporation ,435,Consumer Discretionary,Auto Parts,United States,LKQ,$12.48 B
+International Paper Company ,436,Consumer Discretionary,Packaging & Containers,United States,IP,$12.45 B
+"Evergy, Inc. ",437,Utilities,Utilities—Regulated Electric,United States,EVRG,$12.38 B
+"The Interpublic Group of Companies, Inc. ",438,Communication Services,Advertising Agencies,United States,IPG,$12.33 B
+Regency Centers Corporation ,439,Real Estate,REIT—Retail,United States,REG,$12.21 B
+"Jack Henry & Associates, Inc. ",440,Technology,Information Technology Services,United States,JKHY,$12.14 B
+A.O. Smith Corporation ,441,Industrials,Specialty Industrial Machinery,United States,AOS,$11.71 B
+The Mosaic Company ,442,Basic Materials,Agricultural Inputs,United States,MOS,$11.67 B
+"NRG Energy, Inc. ",443,Utilities,Utilities—Independent Power Producers,United States,NRG,$11.67 B
+Globe Life Inc. ,444,Financials,Insurance—Life,United States,GL,$11.50 B
+"Charles River Laboratories International, Inc. ",445,Healthcare,Diagnostics & Research,United States,CRL,$11.49 B
+"CarMax, Inc. ",446,Consumer Discretionary,Auto & Truck Dealerships,United States,KMX,$11.46 B
+Bio-Techne Corporation ,447,Healthcare,Biotechnology,United States,TECH,$11.45 B
+Pentair plc ,448,Industrials,Specialty Industrial Machinery,United Kingdom,PNR,$11.39 B
+Teleflex Incorporated ,449,Healthcare,Medical Instruments & Supplies,United States,TFX,$11.37 B
+"Paycom Software, Inc. ",450,Technology,Software—Application,United States,PAYC,$11.34 B
+Apache Corporation ,451,Energy,Oil & Gas E&P,United States,APA,$11.28 B
+NiSource Inc. ,452,Utilities,Utilities—Regulated Gas,United States,NI,$11.12 B
+"Boston Properties, Inc. ",453,Real Estate,REIT—Office,United States,BXP,$10.89 B
+WestRock Company ,454,Consumer Discretionary,Packaging & Containers,United States,WRK,$10.81 B
+"Healthpeak Properties, Inc. ",455,Real Estate,REIT—Healthcare Facilities,United States,PEAK,$10.76 B
+Allegion plc ,456,Industrials,Security & Protection Services,Ireland,ALLE,$10.73 B
+"Wynn Resorts, Limited ",457,Consumer Discretionary,Resorts & Casinos,United States,WYNN,$10.64 B
+MarketAxess Holdings Inc. ,458,Financials,Capital Markets,United States,MKTX,$10.58 B
+Eastman Chemical Company ,459,Basic Materials,Chemicals,United States,EMN,$10.47 B
+"Universal Health Services, Inc. ",460,Healthcare,Medical Care Facilities,United States,UHS,$10.44 B
+Camden Property Trust ,461,Real Estate,REIT—Residential,United States,CPT,$10.44 B
+"F5 Networks, Inc. ",462,Technology,Software—Infrastructure,United States,FFIV,$10.39 B
+"Qorvo, Inc. ",463,Technology,Semiconductors,United States,QRVO,$10.29 B
+"C.H. Robinson Worldwide, Inc. ",464,Industrials,Integrated Freight & Logistics,United States,CHRW,$10.29 B
+"Huntington Ingalls Industries, Inc. ",465,Industrials,Aerospace & Defense,United States,HII,$10.18 B
+Ceridian HCM Holding Inc. ,466,Technology,Software—Application,United States,CDAY,$9.96 B
+"Match Group, Inc. ",467,Communication Services,Internet Content & Information,United States,MTCH,$9.88 B
+"Bath & Body Works, Inc. ",468,Consumer Discretionary,Specialty Retail,United States,BBWI,$9.85 B
+"Henry Schein, Inc. ",469,Healthcare,Medical Distribution,United States,HSIC,$9.72 B
+"Caesars Entertainment, Inc. ",470,Consumer Discretionary,Resorts & Casinos,United States,CZR,$9.71 B
+DaVita Inc. ,471,Healthcare,Medical Care Facilities,United States,DVA,$9.70 B
+"Juniper Networks, Inc. ",472,Technology,Communication Equipment,United States,JNPR,$9.57 B
+"Etsy, Inc. ",473,Consumer Discretionary,Internet Retail,United States,ETSY,$9.48 B
+Paramount Global ,474,Communication Services,Entertainment,United States,PARA,$9.43 B
+"Bio-Rad Laboratories, Inc. ",475,Healthcare,Medical Devices,United States,BIO,$9.30 B
+Ralph Lauren Corporation ,476,Consumer Discretionary,Apparel Manufacturing,United States,RL,$9.22 B
+"Assurant, Inc. ",477,Financials,Insurance—Specialty,United States,AIZ,$8.94 B
+Robert Half International Inc. ,478,Industrials,Staffing & Employment Services,United States,RHI,$8.89 B
+American Airlines Group Inc. ,479,Industrials,Airlines,United States,AAL,$8.55 B
+"Tapestry, Inc. ",480,Consumer Discretionary,Luxury Goods,United States,TPR,$8.46 B
+Pinnacle West Capital Corporation ,481,Utilities,Utilities—Regulated Electric,United States,PNW,$8.43 B
+Federal Realty Investment Trust ,482,Real Estate,REIT—Retail,United States,FRT,$8.36 B
+BorgWarner Inc. ,483,Consumer Discretionary,Auto Parts,United States,BWA,$8.06 B
+Invesco Ltd. ,484,Financials,Asset Management,United States,IVZ,$7.87 B
+"Catalent, Inc. ",485,Healthcare,Drug Manufacturers—Specialty & Generic,United States,CTLT,$7.85 B
+FMC Corporation ,486,Basic Materials,Agricultural Inputs,United States,FMC,$7.63 B
+DENTSPLY SIRONA Inc. ,487,Healthcare,Medical Instruments & Supplies,United States,XRAY,$7.56 B
+Norwegian Cruise Line Holdings Ltd. ,488,Consumer Discretionary,Travel Services,United States,NCLH,$7.51 B
+Generac Holdings Inc. ,489,Industrials,Specialty Industrial Machinery,United States,GNRC,$7.35 B
+Comerica Incorporated ,490,Financials,Banks—Regional,United States,CMA,$7.26 B
+V.F. Corporation ,491,Consumer Discretionary,Apparel Manufacturing,United States,VFC,$6.81 B
+"Hasbro, Inc. ",492,Consumer Discretionary,Leisure,United States,HAS,$6.71 B
+Whirlpool Corporation ,493,Consumer Discretionary,"Furnishings, Fixtures & Appliances",United States,WHR,$6.48 B
+"Mohawk Industries, Inc. ",494,Consumer Discretionary,"Furnishings, Fixtures & Appliances",United States,MHK,$6.43 B
+"Zions Bancorporation, National Association ",495,Financials,Banks—Regional,United States,ZION,$6.32 B
+Sealed Air Corporation ,496,Consumer Discretionary,Packaging & Containers,United States,SEE,$5.24 B
+"SolarEdge Technologies, Inc. ",497,Technology,Solar,Israel,SEDG,$4.91 B
+"Alaska Air Group, Inc. ",498,Industrials,Airlines,United States,ALK,$4.66 B
+Lincoln National Corporation ,499,Financials,Insurance—Life,United States,LNC,$4.56 B
+DXC Technology Company ,500,Technology,Information Technology Services,United States,DXC,$4.36 B

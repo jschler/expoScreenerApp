@@ -1,0 +1,103 @@
+﻿name,rank,sector,industry,country,stock,market_cap
+Apple ,1,Technology,Consumer Electronics,United States,AAPL,$2.866 T
+Microsoft ,2,Technology,Software—Infrastructure,United States,MSFT,$2.755 T
+Alphabet ,3,Communication Services,Internet Content & Information,United States,GOOG,$1.746 T
+Alphabet ,4,Communication Services,Internet Content & Information,United States,GOOG,$1.746 T
+Amazon ,5,Consumer Discretionary,Internet Retail,United States,AMZN,$1.534 T
+Nvidia ,6,Technology,Semiconductors,United States,NVDA,$1.186 T
+Meta ,7,Communication Services,Internet Content & Information,United States,META,$884.87 B
+Tesla ,8,Consumer Discretionary,Auto Manufacturers,United States,TSLA,$758.09 B
+Broadcom ,9,Technology,Semiconductors,United States,AVGO,$495.95 B
+ASML ,10,Technology,Semiconductor Equipment & Materials,Netherlands,ASML,$297.10 B
+Costco ,11,Consumer Staples,Discount Stores,United States,COST,$287.69 B
+Adobe ,12,Technology,Software—Infrastructure,United States,ADBE,$260.23 B
+PepsiCo ,13,Consumer Staples,Beverages—Non-Alcoholic,United States,PEP,$237.77 B
+AMD ,14,Technology,Semiconductors,United States,AMD,$219.72 B
+AstraZeneca ,15,Healthcare,Drug Manufacturers—General,United Kingdom,AZN,$212.31 B
+Netflix ,16,Communication Services,Entertainment,United States,NFLX,$207.75 B
+Cisco ,17,Technology,Communication Equipment,United States,CSCO,$205.21 B
+Intel ,18,Technology,Semiconductors,United States,INTC,$198.49 B
+Pinduoduo ,19,Consumer Discretionary,Internet Retail,China,PDD,$197.91 B
+T-Mobile US ,20,Communication Services,Telecom Services,United States,TMUS,$187.70 B
+Comcast ,21,Communication Services,Entertainment,United States,CMCSA,$174.33 B
+Intuit ,22,Technology,Software—Application,United States,INTU,$165.41 B
+Amgen ,23,Healthcare,Drug Manufacturers—General,United States,AMGN,$162.25 B
+Qualcomm ,24,Technology,Semiconductors,United States,QCOM,$153.17 B
+Texas Instruments ,25,Technology,Semiconductors,United States,TXN,$151.39 B
+Honeywell ,26,Industrials,Specialty Industrial Machinery,United States,HON,$135.08 B
+Applied Materials ,27,Technology,Semiconductor Equipment & Materials,United States,AMAT,$125.87 B
+Booking Holdings Inc. ,28,Consumer Discretionary,Travel Services,United States,BKNG,$119.32 B
+"Intuitive Surgical, Inc. ",29,Healthcare,Medical Instruments & Supplies,United States,ISRG,$113.81 B
+Vertex Pharmaceuticals Incorporated ,30,Healthcare,Biotechnology,United States,VRTX,$107.23 B
+Starbucks ,31,Consumer Discretionary,Restaurants,United States,SBUX,$106.34 B
+"Gilead Sciences, Inc. ",32,Healthcare,Drug Manufacturers—General,United States,GILD,$105.27 B
+"Regeneron Pharmaceuticals, Inc. ",33,Healthcare,Biotechnology,United States,REGN,$100.01 B
+"Mondelez International, Inc. ",34,Consumer Staples,Confectioners,United States,MDLZ,$99.73 B
+Lam Research ,35,Technology,Semiconductor Equipment & Materials,United States,LRCX,$97.14 B
+"Automatic Data Processing, Inc. ",36,Industrials,Staffing & Employment Services,United States,ADP,$96.11 B
+Analog Devices ,37,Technology,Semiconductors,United States,ADI,$93.79 B
+"Micron Technology, Inc. ",38,Technology,Semiconductors,United States,MU,$91.30 B
+Palo Alto Networks ,39,Technology,Software—Infrastructure,United States,PANW,$90.41 B
+"Airbnb, Inc. ",40,Communication Services,Internet Content & Information,United States,ABNB,$85.47 B
+"MercadoLibre, Inc. ",41,Consumer Discretionary,Internet Retail,Argentina,MELI,$78.42 B
+KLA ,42,Technology,Semiconductor Equipment & Materials,United States,KLAC,$75.13 B
+Synopsys ,43,Technology,Software—Infrastructure,United States,SNPS,$74.64 B
+Workday ,44,Technology,Software—Application,United States,WDAY,$70.57 B
+Cadence ,45,Technology,Software—Application,United States,CDNS,$69.99 B
+CSX Corporation ,46,Industrials,Railroads,United States,CSX,$68.61 B
+"Marriott International, Inc. ",47,Consumer Discretionary,Lodging,United States,MAR,$64.62 B
+PayPal ,48,Financials,Credit Services,United States,PYPL,$63.02 B
+Lululemon Athletica Inc. ,49,Consumer Discretionary,Apparel Retail,Canada,LULU,$62.85 B
+Monster Beverage Corporation ,50,Consumer Staples,Beverages—Non-Alcoholic,United States,MNST,$60.04 B
+Cintas Corporation ,51,Industrials,Specialty Business Services,United States,CTAS,$59.02 B
+"CrowdStrike Holdings, Inc. ",52,Technology,Software—Infrastructure,United States,CRWD,$58.68 B
+Charter Communications ,53,Communication Services,Entertainment,United States,CHTR,$57.18 B
+Atlassian Corporation Plc ,54,Technology,Software—Application,Australia,TEAM,$56.79 B
+"O'Reilly Automotive, Inc. ",55,Consumer Discretionary,Specialty Retail,United States,ORLY,$55.83 B
+NXP Semiconductors N.V. ,56,Technology,Semiconductors,Netherlands,NXPI,$55.69 B
+Marvell Technology Group Ltd. ,57,,,,MRVL,$50.20 B
+PACCAR Inc ,58,Industrials,Farm & Heavy Construction Machinery,United States,PCAR,$49.66 B
+"Autodesk, Inc. ",59,Technology,Software—Application,United States,ADSK,$48.97 B
+The Kraft Heinz Company ,60,Consumer Staples,Packaged Foods,United States,KHC,$46.69 B
+"DexCom, Inc. ",61,Healthcare,Diagnostics & Research,United States,DXCM,$46.50 B
+Microchip Technology Incorporated ,62,Technology,Semiconductors,United States,MCHP,$45.77 B
+Keurig Dr Pepper Inc. ,63,Consumer Staples,Beverages—Non-Alcoholic,United States,KDP,$45.58 B
+"Ross Stores, Inc. ",64,Consumer Discretionary,Apparel Retail,United States,ROST,$45.54 B
+"Copart, Inc. ",65,Industrials,Specialty Business Services,United States,CPRT,$44.97 B
+"Fortinet, Inc. ",66,Technology,Software—Infrastructure,United States,FTNT,$44.84 B
+"IDEXX Laboratories, Inc. ",67,Healthcare,Diagnostics & Research,United States,IDXX,$44.72 B
+"American Electric Power Company, Inc. ",68,Utilities,Utilities—Regulated Electric,United States,AEP,$43.85 B
+Seagen Inc. ,69,Healthcare,Biotechnology,United States,SGEN,"$43.15 B
+                                        (Dec. 1, 2023)"
+"Old Dominion Freight Line, Inc. ",70,Industrials,Trucking,United States,ODFL,$42.47 B
+JD.com ,71,Consumer Discretionary,Internet Retail,China,9618,$42.45 B
+"Paychex, Inc. ",72,Industrials,Staffing & Employment Services,United States,PAYX,$42.41 B
+"Moderna, Inc. ",73,Healthcare,Biotechnology,United States,MRNA,$41.43 B
+Biogen Inc. ,74,Healthcare,Drug Manufacturers—General,United States,BIIB,$38.17 B
+Constellation Energy ,75,Utilities,Utilities—Renewable,United States,CEG,$37.00 B
+Cognizant Technology Solutions Corporation ,76,Technology,Information Technology Services,United States,CTSH,$36.93 B
+"Datadog, Inc. ",77,Technology,Software—Application,United States,DDOG,$36.93 B
+Electronic Arts Inc. ,78,Communication Services,Electronic Gaming & Multimedia,United States,EA,$36.57 B
+Exelon Corporation ,79,Utilities,Utilities—Diversified,United States,EXC,$36.01 B
+Fastenal Company ,80,Industrials,Industrial Distribution,United States,FAST,$35.55 B
+Xcel Energy Inc. ,81,Utilities,Utilities—Regulated Electric,United States,XEL,$35.17 B
+GE HealthCare ,82,Healthcare,Health Information Services,United States,GEHC,$34.86 B
+"Verisk Analytics, Inc. ",83,Industrials,Consulting Services,United States,VRSK,$34.50 B
+Baker Hughes Company ,84,Energy,Oil & Gas Equipment & Services,United States,BKR,$34.34 B
+ON Semiconductor Corporation ,85,Technology,Semiconductors,United States,ON,$34.18 B
+"The Trade Desk, Inc. ",86,Technology,Software—Application,United States,TTD,$34.00 B
+"CoStar Group, Inc. ",87,Real Estate,Real Estate Services,United States,CSGP,$33.81 B
+GlobalFoundries Inc. ,88,Technology,Semiconductors,United States,GFS,$31.55 B
+"Zscaler, Inc. ",89,Technology,Software—Infrastructure,United States,ZS,$31.20 B
+"ANSYS, Inc. ",90,Technology,Software—Application,United States,ANSS,$29.90 B
+"Dollar Tree, Inc. ",91,Consumer Staples,Discount Stores,United States,DLTR,$29.79 B
+"Diamondback Energy, Inc. ",92,Energy,Oil & Gas E&P,United States,FANG,$28.67 B
+Warner Bros. Discovery ,93,Communication Services,Entertainment,United States,WBD,$27.68 B
+eBay Inc. ,94,Consumer Discretionary,Internet Retail,United States,EBAY,$22.61 B
+"Walgreens Boots Alliance, Inc. ",95,Healthcare,Pharmaceutical Retailers,United States,WBA,$22.04 B
+"Illumina, Inc. ",96,Healthcare,Diagnostics & Research,United States,ILMN,$20.87 B
+Sirius XM Holdings Inc. ,97,Communication Services,Broadcasting,United States,SIRI,$20.86 B
+"Zoom Video Communications, Inc. ",98,Communication Services,Telecom Services,United States,ZM,$20.45 B
+"Align Technology, Inc. ",99,Healthcare,Medical Devices,United States,ALGN,$19.62 B
+"Enphase Energy, Inc. ",100,Technology,Solar,United States,ENPH,$16.75 B
+Lucid Motors ,101,Consumer Discretionary,Auto Manufacturers,United States,LCID,$9.04 B

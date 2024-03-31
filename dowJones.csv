@@ -1,0 +1,31 @@
+﻿name,rank,sector,industry,country,stock,market_cap
+Apple ,1,Technology,Consumer Electronics,United States,AAPL,$2.866 T
+Microsoft ,2,Technology,Software—Infrastructure,United States,MSFT,$2.755 T
+Visa ,3,Financials,Credit Services,United States,V,$530.20 B
+UnitedHealth Group ,4,Healthcare,Healthcare Plans,United States,UNH,$504.47 B
+JPMorgan ,5,Financials,Banks—Diversified,United States,JPM,$495.55 B
+Walmart ,6,Consumer Staples,Discount Stores,United States,WMT,$428.87 B
+Johnson & Johnson ,7,Healthcare,Drug Manufacturers—General,United States,JNJ,$387.50 B
+Procter & Gamble ,8,Consumer Staples,Household & Personal Products,United States,PG,$350.35 B
+Home Depot ,9,Consumer Discretionary,Home Improvement Retail,United States,HD,$336.99 B
+Merck ,10,Healthcare,Drug Manufacturers—General,United States,MRK,$296.51 B
+Chevron ,11,Energy,Oil & Gas Integrated,United States,CVX,$287.56 B
+Coca-Cola ,12,Consumer Staples,Beverages—Non-Alcoholic,United States,KO,$259.23 B
+Salesforce ,13,Technology,Software—Application,United States,CRM,$243.78 B
+McDonald's ,14,Consumer Discretionary,Restaurants,United States,MCD,$213.53 B
+Cisco ,15,Technology,Communication Equipment,United States,CSCO,$205.21 B
+Intel ,16,Technology,Semiconductors,United States,INTC,$198.49 B
+Disney ,17,Communication Services,Entertainment,United States,DIS,$167.75 B
+Verizon ,18,Communication Services,Telecom Services,United States,VZ,$165.52 B
+Amgen ,19,Healthcare,Drug Manufacturers—General,United States,AMGN,$162.25 B
+Nike ,20,Consumer Discretionary,Footwear & Accessories,United States,NKE,$158.34 B
+Boeing ,21,Industrials,Aerospace & Defense,United States,BA,$148.18 B
+IBM ,22,Technology,Information Technology Services,United States,IBM,$146.88 B
+Caterpillar ,23,Industrials,Farm & Heavy Construction Machinery,United States,CAT,$145.65 B
+American Express ,24,Financials,Credit Services,United States,AXP,$136.38 B
+Honeywell ,25,Industrials,Specialty Industrial Machinery,United States,HON,$135.08 B
+Goldman Sachs ,26,Financials,Capital Markets,United States,GS,$124.88 B
+3M Company ,27,Industrials,Specialty Industrial Machinery,United States,MMM,$59.74 B
+"The Travelers Companies, Inc. ",28,Financials,Insurance—Property & Casualty,United States,TRV,$43.98 B
+Dow Inc. ,29,Basic Materials,Chemicals,United States,DOW,$38.32 B
+"Walgreens Boots Alliance, Inc. ",30,Healthcare,Pharmaceutical Retailers,United States,WBA,$22.04 B
