@@ -107,12 +107,12 @@ def ind4stock(stock,sp500L,nasdaqL,russell2000L):
     return ret
 
 def main():
-    # sp500=pd.read_csv("SP500.csv")
-    # sp500L=[l.lower() for l in sp500["stock"].tolist()]
-    # nasdaq=pd.read_csv("NASDAQ100.csv")
-    # nasdaqL=[l.lower() for l in nasdaq["stock"].tolist()]
-    # russell2000=pd.read_csv("RUSSELL2000.csv")
-    # russell2000L=[l.lower() for l in russell2000["stock"].tolist()]
+    sp500=pd.read_csv("./SP500.csv")
+    sp500L=[l.lower() for l in sp500["stock"].tolist()]
+    nasdaq=pd.read_csv("./NASDAQ100.csv")
+    nasdaqL=[l.lower() for l in nasdaq["stock"].tolist()]
+    russell2000=pd.read_csv("./RUSSELL2000.csv")
+    russell2000L=[l.lower() for l in russell2000["stock"].tolist()]
 
     st.title("Stock Data Screener")
 
@@ -155,9 +155,9 @@ def main():
                     'Volume': last_row['Volume'],
                     'EMA10': ema10,
                     'EMA20': ema20,
-                    # "SP500": symbol in sp500L,
-                    # "Nasdaq": symbol in nasdaqL,
-                    # "Russell2000": symbol in russell2000L,
+                    "SP500": symbol in sp500L,
+                    "Nasdaq": symbol in nasdaqL,
+                    "Russell2000": symbol in russell2000L,
                     "Triggered": trigger
                 })
 
