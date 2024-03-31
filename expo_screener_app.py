@@ -3,6 +3,7 @@ import pandas as pd
 import yfinance as yf
 import mplfinance as mpf
 import matplotlib.pyplot as plt
+from datetime import datetime,timedelta
 
 def calculate_moving_average(data, window=20):
     return data.ewm(span=window, adjust=False).mean()
@@ -86,11 +87,37 @@ def plot_data(selected_symbol, data):
     ax.plot([], [], color=ema_colors['20'], label='20-Day EMA')
     ax.legend()
 
+    # Set the x-axis limits to display only the last 30 data points
+    last_30_index = len(ohlc_data) - 30
+    ax.set_xlim(last_30_index, len(ohlc_data))
+
     ax.set_title(f"{selected_symbol} Stock Price (Candlestick)")
     st.pyplot(fig)
 
+def ind4stock(stock,sp500L,nasdaqL,russell2000L):
+    stock=stock.lower()
+    ret=""
+    if stock in sp500L:
+        ret+= "SP500, "
+    if stock in nasdaqL:
+        ret+= "NASDAQ, "
+    if stock in russell2000L:
+        ret+=  "RUSSELL2000, "
+
+    return ret
+
 def main():
+    sp500=pd.read_excel("SP500.xlsx")
+    sp500L=[l.lower() for l in sp500["stock"].tolist()]
+    nasdaq=pd.read_excel("NASDAQ100.xlsx")
+    nasdaqL=[l.lower() for l in nasdaq["stock"].tolist()]
+    russell2000=pd.read_excel("RUSSELL2000.xlsx")
+    russell2000L=[l.lower() for l in russell2000["stock"].tolist()]
+
     st.title("Stock Data Screener")
+
+    # Date picker for simulation
+    simulation_date = st.date_input("Select a date for simulation", datetime.today())
 
     if 'all_data' not in st.session_state:
         st.session_state.all_data = {}
@@ -98,13 +125,15 @@ def main():
 
     # Initial stock list
     # initial_stock_list="AAPL,GOOGL,MSFT"
-    initial_stock_list=("SPY,QQQ,IWM,fngu, soxl, tna, fas, arkk, arkb,MSFT,AAPL,NVDA,AMZN,GOOGL,GOOG,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,BABA,INTC,VZ,CMCSA,UBER,PFE,ARM,NEE,T,MU,C,BMY,SHOP,CVS,PBR,MO,SLB,CSX,PYPL,FCX,COIN,ITUB,MRVL,NU,PLTR,VALE,ET,SQ,F,GM,KMI,ABEV,NEM,KVUE,JD,CVE,PCG,BCS,CPNG,BBD,GOLD,DKNG,HPE,CCL,WBD,NOK,HBAN,SNAP,ERIC,WBA,HOOD,CNHI,SIRI,KEY,PATH,GRAB,AFRM,RIVN,U,AAL,XPEV,NCLH,PARA,LYFT,SWN,NIO,SOFI,KGC")
+    #initial_stock_list=("SPY,QQQ,IWM,fngu, soxl, tna, fas, arkk, arkb,MSFT,AAPL,NVDA,AMZN,GOOGL,GOOG,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,BABA,INTC,VZ,CMCSA,UBER,PFE,ARM,NEE,T,MU,C,BMY,SHOP,CVS,PBR,MO,SLB,CSX,PYPL,FCX,COIN,ITUB,MRVL,NU,PLTR,VALE,ET,SQ,F,GM,KMI,ABEV,NEM,KVUE,JD,CVE,PCG,BCS,CPNG,BBD,GOLD,DKNG,HPE,CCL,WBD,NOK,HBAN,SNAP,ERIC,WBA,HOOD,CNHI,SIRI,KEY,PATH,GRAB,AFRM,RIVN,U,AAL,XPEV,NCLH,PARA,LYFT,SWN,NIO,SOFI,KGC")
+    initial_stock_list=("SPY,QQQ,IWM,fngu, soxl, tna, fas, arkk, arkb,MSFT,AAPL,NVDA,GOOG,GOOGL,AMZN,META,TSM,TSLA,WMT,XOM,BAC,AMD,KO,DIS,WFC,CSCO,INTC,BABA,VZ,CMCSA,UBER,PFE,NEE,MU,ARM,T,C,BMY,CVS,PBR,SLB,MO,CSX,PYPL,FCX,COIN,ITUB,MRVL,NU,ET,F,GM,SQ,VALE,PLTR,NEM,KVUE,KMI,JD,CVE,PCG,BCS,CPNG,GOLD,HPE,DKNG,WBD,CCL,HBAN,SNAP,WBA,ERIC,HOOD,CNHI,KEY,PATH,AFRM,RIVN,U,AAL,NCLH,SWN,PARA,LYFT,XPEV,KGC,SOFI,CHWY,AGNC,MARA,M,RIG,COCSF,CLSK,RIOT,RUN,JBLU,SOUN")
     symbols_input = st.text_input("Enter stock symbols, separated by commas",initial_stock_list )
+    symbols_input = symbols_input.lower()
     symbols = symbols_input.split(',')
 
     if st.button("Screen"):
         for symbol in symbols:
-            data = fetch_data(symbol, period="30d")
+            data = fetch_data(symbol, period="60d",end=simulation_date,start=simulation_date-timedelta(days=60))
             if data.empty:
                 st.error(f"No data found for symbol: {symbol}. Please check the symbol and try again.")
                 continue
@@ -126,6 +155,9 @@ def main():
                     'Volume': last_row['Volume'],
                     'EMA10': ema10,
                     'EMA20': ema20,
+                    "SP500": symbol in sp500L,
+                    "Nasdaq": symbol in nasdaqL,
+                    "Russell2000": symbol in russell2000L,
                     "Triggered": trigger
                 })
 
