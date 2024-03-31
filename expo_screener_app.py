@@ -107,11 +107,11 @@ def ind4stock(stock,sp500L,nasdaqL,russell2000L):
     return ret
 
 def main():
-    sp500=pd.read_csv("./SP500.csv")
+    sp500=pd.read_csv("./sp500.csv")
     sp500L=[l.lower() for l in sp500["stock"].tolist()]
-    nasdaq=pd.read_csv("./NASDAQ100.csv")
+    nasdaq=pd.read_csv("./nasdaq100.csv")
     nasdaqL=[l.lower() for l in nasdaq["stock"].tolist()]
-    russell2000=pd.read_csv("./RUSSELL2000.csv")
+    russell2000=pd.read_csv("./russell2000.csv")
     russell2000L=[l.lower() for l in russell2000["stock"].tolist()]
 
     st.title("Stock Data Screener")
