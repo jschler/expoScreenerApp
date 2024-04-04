@@ -155,9 +155,9 @@ def main():
                     'Volume': last_row['Volume'],
                     'EMA10': ema10,
                     'EMA20': ema20,
-                    "SP500": symbol in sp500L,
-                    "Nasdaq": symbol in nasdaqL,
-                    "Russell2000": symbol in russell2000L,
+                    #"SP500": symbol in sp500L,
+                    #"Nasdaq": symbol in nasdaqL,
+                    #"Russell2000": symbol in russell2000L,
                     "Triggered": trigger
                 })
 
